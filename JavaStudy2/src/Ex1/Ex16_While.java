@@ -1,3 +1,5 @@
+package Ex1;
+
 public class Ex16_While {
     public static void main(String[] args) {
         int n= 0;

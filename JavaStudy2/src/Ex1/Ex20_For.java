@@ -1,3 +1,5 @@
+package Ex1;
+
 public class Ex20_For {
     public static void main(String[] args) {
         for(int i=100; i>=80; i-=3){

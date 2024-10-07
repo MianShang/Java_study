@@ -1,4 +1,4 @@
-
+package Ex1;
 
 public class Ex04_DataType {
     public static void main(String[] args) {
